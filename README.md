@@ -10,8 +10,8 @@ A robotic system designed to play xylophone notes using dual‑arm servo mechani
 ## 📸 Demo
 
 
-![Robot Demo](./Robot-FrontView.jpg) 
-![Robot Demo](./Robot-TopView.jpg) 
+![Robot Demo](./demo/Robot-FrontView.jpg) 
+![Robot Demo](./demo/Robot-TopView.jpg) 
 
 ---
 
